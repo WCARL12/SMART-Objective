@@ -9,7 +9,6 @@
 </ul>
 <br>
 
-<h3>Command Menu:</h3>
 <br>
 
 <h2>Preview of the Commands</h2>
