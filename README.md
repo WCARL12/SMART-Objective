@@ -23,3 +23,8 @@
 <br>
 
 ![image](https://github.com/WCARL12/SMART-Objective/assets/139624156/d0f92e7c-a023-4ba3-b0e0-2e8e652db99d)
+
+<h3>View_accomplishments Command</h3>
+<br>
+
+![image](https://github.com/WCARL12/SMART-Objective/assets/139624156/4f856516-11e3-443b-b24a-bcf9e52a0752)
