@@ -12,6 +12,8 @@
 <h3>Command Menu:</h3>
 <br>
 
+<h2>Preview of the Commands</h2>
+
 ![image](https://github.com/WCARL12/SMART-Objective/assets/139624156/f635b7cf-f72c-4973-b501-29f99d2e4da1)
 
 <h3>Create Command</h3>
